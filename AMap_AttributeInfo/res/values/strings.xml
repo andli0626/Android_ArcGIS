@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">部件属性</string>
+    <string name="btn_edit_apply">提交</string>
+    <string name="btn_edit_discard">取消</string>
+
+</resources>
