@@ -49,6 +49,12 @@ import com.esri.core.tasks.ags.identify.IdentifyTask;
 import com.esri.core.tasks.ags.query.Query;
 import com.esri.core.tasks.ags.query.QueryTask;
 
+/**
+ * 
+ * @author lilin
+ * @date 2013-4-1 下午7:09:14
+ * @annotation 部件加载测试
+ */
 public class QueryMethodDemo extends Activity implements OnClickListener {
 
 	private String tag = "andli";
