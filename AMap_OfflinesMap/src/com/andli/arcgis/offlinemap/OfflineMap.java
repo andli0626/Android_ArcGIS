@@ -19,7 +19,7 @@ public class OfflineMap extends Activity {
 		// 加载本地切片地图
 //		local = new ArcGISLocalTiledLayer("file:///mnt/sdcard/Parcel Map");
 //		local = new ArcGISLocalTiledLayer("file:///mnt/sdcard/jzimg");
-		local = new ArcGISLocalTiledLayer("file:///mnt/sdcard/sgtmap/001");
+		local = new ArcGISLocalTiledLayer("file:///mnt/sdcard/qwtmap/sxz");
 		map.addLayer(local);
 
 	}
