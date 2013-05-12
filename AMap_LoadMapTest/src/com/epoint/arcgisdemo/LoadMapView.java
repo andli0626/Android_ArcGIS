@@ -59,9 +59,9 @@ public class LoadMapView extends Activity {
 		mMapView.addLayer(DYWGLayer);
 
 		// 加载属性图层
-		// dynammicLayout = new ArcGISDynamicMapServiceLayer(AMapHelp.getMapURL(
-		// this, AMapHelp.DYWG));
-		// mMapView.addLayer(dynammicLayout);
+//		 dynammicLayout = new ArcGISDynamicMapServiceLayer(AMapHelp.getMapURL(
+//		 this, AMapHelp.JZ_BZWBZD_BLACK));
+//		 mMapView.addLayer(dynammicLayout);
 
 		button = (Button) findViewById(R.id.start);
 		button.setOnClickListener(new OnClickListener() {
